@@ -5,7 +5,13 @@
     "creators": [],
     "verifier": "DivadGD",
     "verification": "https://www.youtube.com/watch?v=BZMeBqZM_3o",
-    "percentToQualify": "61",
-    "records": [
+    "percentToQualify": "74",
+"records": [
+        {
+            "user": "PinguGD",
+            "link": "https://www.youtube.com/watch?v=JsNebe1lbl8",
+            "percent": 100,
+            "hz": 69
+        }
     ]
-}
+}  
